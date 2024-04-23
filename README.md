@@ -1,5 +1,7 @@
-# animated-background
+# Animated Background
 
-This is animated background web app template that work best on desktop devices, for mobile background should be replaced with static content.
+This is animated background web app template that work best on desktop devices, for mobile background should be replaced with static content due to performance issues.
 
-Page preview: https://adrian527.github.io/animated-background/.
+## Preview
+
+https://adrian527.github.io/animated-background/.
